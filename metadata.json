@@ -1,0 +1,8 @@
+{
+  "name": "SkinMatch - Akıllı Cilt Bakım ve Kozmetik Ürün Analizi",
+  "description": "Kişiselleştirilmiş cilt profili ve Open Beauty Facts verileri ile desteklenen, Gemini yapay zeka tabanlı bilimsel kozmetik içerik ve ürün uyumluluk analiz platformu.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
